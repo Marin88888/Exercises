@@ -13,7 +13,7 @@ public class Ex08_ConditionalsAndLoops {
 
         // --- if statement ---
         System.out.println("-- if statement: absolute value --");
-        int x = -7;
+        int x = 7;
         System.out.println("  x = " + x);
         if (x < 0) x = -x;   // make x positive
         System.out.println("  After if (x < 0) x = -x;  =>  x = " + x);

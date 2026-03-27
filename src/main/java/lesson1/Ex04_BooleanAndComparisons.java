@@ -34,7 +34,7 @@ public class Ex04_BooleanAndComparisons {
         // --- Combining comparisons with boolean operators ---
         System.out.println("\n-- Combined expressions --");
         int age = 20;
-        boolean isStudent = true;
+        boolean isStudent = false;
         boolean hasDiscount = (age < 25) && isStudent;
         System.out.println("age = " + age + ", isStudent = " + isStudent);
         System.out.println("hasDiscount = (age < 25) && isStudent = " + hasDiscount);
