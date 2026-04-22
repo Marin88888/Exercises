@@ -10,6 +10,7 @@ public class BankApp {
         ba1.withdraw(20.00);
         System.out.print("After transactions, ");
         ba1.display();
+
     }
 }
 
