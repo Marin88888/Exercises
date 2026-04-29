@@ -1,4 +1,4 @@
-package lesson7;
+package Lesson8;
 
 import java.util.Arrays;
 
@@ -12,7 +12,7 @@ import java.util.Arrays;
  * left child index  = 2 * parentIndex + 1
  * right child index = 2 * parentIndex + 2
  */
-public class Lesson7 {
+public class Lesson8 {
 
     /*
      * Exercise goals:
